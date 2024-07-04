@@ -1,0 +1,151 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1719902188967,833,HTTP Request,200,OK,CollegeStudents 1-1,text,true,,105309,298,9,9,https://www.shivajicollege.ac.in/aboutus/the_college.php,62,0,28
+1719902188967,62,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-1,text,true,,738,149,9,9,http://www.shivajicollege.ac.in/aboutus/the_college.php,62,0,28
+1719902189030,770,HTTP Request-1,200,OK,CollegeStudents 1-1,text,true,,104571,149,9,9,https://www.shivajicollege.ac.in/aboutus/the_college.php,731,0,57
+1719902189063,879,HTTP Request,200,OK,CollegeStudents 1-2,text,true,,105309,298,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,52,0,23
+1719902189063,52,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-2,text,true,,738,149,10,10,http://www.shivajicollege.ac.in/aboutus/the_college.php,52,0,23
+1719902189115,827,HTTP Request-1,200,OK,CollegeStudents 1-2,text,true,,104571,149,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,802,0,61
+1719902189163,1047,HTTP Request,200,OK,CollegeStudents 1-3,text,true,,105309,298,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,47,0,12
+1719902189163,47,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-3,text,true,,738,149,10,10,http://www.shivajicollege.ac.in/aboutus/the_college.php,47,0,12
+1719902189210,1000,HTTP Request-1,200,OK,CollegeStudents 1-3,text,true,,104571,149,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,969,0,39
+1719902189264,1328,HTTP Request,200,OK,CollegeStudents 1-4,text,true,,105309,298,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,243,0,11
+1719902189264,243,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-4,text,true,,738,149,10,10,http://www.shivajicollege.ac.in/aboutus/the_college.php,243,0,11
+1719902189508,1084,HTTP Request-1,200,OK,CollegeStudents 1-4,text,true,,104571,149,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,1031,0,40
+1719902189363,1358,HTTP Request,200,OK,CollegeStudents 1-5,text,true,,105309,298,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,144,0,11
+1719902189363,144,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-5,text,true,,738,149,10,10,http://www.shivajicollege.ac.in/aboutus/the_college.php,144,0,11
+1719902189508,1213,HTTP Request-1,200,OK,CollegeStudents 1-5,text,true,,104571,149,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,1194,0,44
+1719902189460,1470,HTTP Request,200,OK,CollegeStudents 1-6,text,true,,105309,298,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,47,0,11
+1719902189460,47,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-6,text,true,,738,149,10,10,http://www.shivajicollege.ac.in/aboutus/the_college.php,47,0,11
+1719902189508,1422,HTTP Request-1,200,OK,CollegeStudents 1-6,text,true,,104571,149,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,1391,0,45
+1719902189804,1431,HTTP Request,200,OK,CollegeStudents 1-1,text,true,,105309,298,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,366,0,0
+1719902189804,366,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-1,text,true,,738,149,10,10,http://www.shivajicollege.ac.in/aboutus/the_college.php,366,0,0
+1719902190171,1064,HTTP Request-1,200,OK,CollegeStudents 1-1,text,true,,104571,149,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,1032,0,0
+1719902189861,1784,HTTP Request,200,OK,CollegeStudents 1-10,text,true,,105309,298,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,308,0,22
+1719902189861,308,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-10,text,true,,738,149,10,10,http://www.shivajicollege.ac.in/aboutus/the_college.php,308,0,22
+1719902190170,1475,HTTP Request-1,200,OK,CollegeStudents 1-10,text,true,,104571,149,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,1447,0,65
+1719902189661,2112,HTTP Request,200,OK,CollegeStudents 1-8,text,true,,105309,298,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,512,0,13
+1719902189661,512,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-8,text,true,,738,149,10,10,http://www.shivajicollege.ac.in/aboutus/the_college.php,512,0,13
+1719902190174,1599,HTTP Request-1,200,OK,CollegeStudents 1-8,text,true,,104571,149,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,1579,0,61
+1719902189944,1870,HTTP Request,200,OK,CollegeStudents 1-2,text,true,,105309,298,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,228,0,0
+1719902189944,229,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-2,text,true,,738,149,10,10,http://www.shivajicollege.ac.in/aboutus/the_college.php,228,0,0
+1719902190173,1641,HTTP Request-1,200,OK,CollegeStudents 1-2,text,true,,104571,149,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,1612,0,0
+1719902189563,2495,HTTP Request,200,OK,CollegeStudents 1-7,text,true,,105309,298,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,607,0,15
+1719902189563,607,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-7,text,true,,738,149,10,10,http://www.shivajicollege.ac.in/aboutus/the_college.php,607,0,15
+1719902190171,1887,HTTP Request-1,200,OK,CollegeStudents 1-7,text,true,,104571,149,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,1845,0,64
+1719902189761,2860,HTTP Request,200,OK,CollegeStudents 1-9,text,true,,105309,298,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,411,0,12
+1719902189761,411,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-9,text,true,,738,149,10,10,http://www.shivajicollege.ac.in/aboutus/the_college.php,411,0,12
+1719902190173,2448,HTTP Request-1,200,OK,CollegeStudents 1-9,text,true,,104571,149,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,2404,0,63
+1719902190212,2474,HTTP Request,200,OK,CollegeStudents 1-3,text,true,,105309,298,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,973,0,0
+1719902190212,973,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-3,text,true,,738,149,10,10,http://www.shivajicollege.ac.in/aboutus/the_college.php,973,0,0
+1719902191185,1501,HTTP Request-1,200,OK,CollegeStudents 1-3,text,true,,104571,149,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,1461,0,0
+1719902190593,2330,HTTP Request,200,OK,CollegeStudents 1-4,text,true,,105309,298,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,1016,0,0
+1719902190593,1016,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-4,text,true,,738,149,10,10,http://www.shivajicollege.ac.in/aboutus/the_college.php,1016,0,0
+1719902191610,1313,HTTP Request-1,200,OK,CollegeStudents 1-4,text,true,,104571,149,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,1287,0,0
+1719902190722,2284,HTTP Request,200,OK,CollegeStudents 1-5,text,true,,105309,298,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,887,0,0
+1719902190722,887,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-5,text,true,,738,149,10,10,http://www.shivajicollege.ac.in/aboutus/the_college.php,887,0,0
+1719902191610,1396,HTTP Request-1,200,OK,CollegeStudents 1-5,text,true,,104571,149,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,1376,0,0
+1719902190934,2310,HTTP Request,200,OK,CollegeStudents 1-6,text,true,,105309,298,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,675,0,0
+1719902190934,675,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-6,text,true,,738,149,10,10,http://www.shivajicollege.ac.in/aboutus/the_college.php,675,0,0
+1719902191610,1634,HTTP Request-1,200,OK,CollegeStudents 1-6,text,true,,104571,149,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,1604,0,0
+1719902191645,1983,HTTP Request,200,OK,CollegeStudents 1-10,text,true,,105309,298,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,922,0,0
+1719902191645,922,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-10,text,true,,738,149,10,10,http://www.shivajicollege.ac.in/aboutus/the_college.php,922,0,0
+1719902192568,1060,HTTP Request-1,200,OK,CollegeStudents 1-10,text,true,,104571,149,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,1021,0,0
+1719902191235,2401,HTTP Request,200,OK,CollegeStudents 1-1,text,true,,105309,298,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,509,0,0
+1719902191235,509,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-1,text,true,,738,149,10,10,http://www.shivajicollege.ac.in/aboutus/the_college.php,509,0,0
+1719902191745,1891,HTTP Request-1,200,OK,CollegeStudents 1-1,text,true,,104571,149,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,1846,0,0
+1719902191774,2262,HTTP Request,200,OK,CollegeStudents 1-8,text,true,,105309,298,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,866,0,0
+1719902191774,866,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-8,text,true,,738,149,10,10,http://www.shivajicollege.ac.in/aboutus/the_college.php,866,0,0
+1719902192640,1396,HTTP Request-1,200,OK,CollegeStudents 1-8,text,true,,104571,149,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,1378,0,0
+1719902191814,2229,HTTP Request,200,OK,CollegeStudents 1-2,text,true,,105309,298,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,824,0,0
+1719902191814,824,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-2,text,true,,738,149,10,10,http://www.shivajicollege.ac.in/aboutus/the_college.php,824,0,0
+1719902192638,1405,HTTP Request-1,200,OK,CollegeStudents 1-2,text,true,,104571,149,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,1382,0,0
+1719902192059,2215,HTTP Request,200,OK,CollegeStudents 1-7,text,true,,105309,298,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,580,0,0
+1719902192059,580,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-7,text,true,,738,149,10,10,http://www.shivajicollege.ac.in/aboutus/the_college.php,580,0,0
+1719902192639,1635,HTTP Request-1,200,OK,CollegeStudents 1-7,text,true,,104571,149,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,1595,0,0
+1719902193007,1634,HTTP Request,200,OK,CollegeStudents 1-5,text,true,,105309,298,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,574,0,0
+1719902193007,574,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-5,text,true,,738,149,10,10,http://www.shivajicollege.ac.in/aboutus/the_college.php,574,0,0
+1719902193582,1059,HTTP Request-1,200,OK,CollegeStudents 1-5,text,true,,104571,149,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,1039,0,0
+1719902193245,1567,HTTP Request,200,OK,CollegeStudents 1-6,text,true,,105309,298,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,336,0,0
+1719902193245,336,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-6,text,true,,738,149,10,10,http://www.shivajicollege.ac.in/aboutus/the_college.php,336,0,0
+1719902193581,1231,HTTP Request-1,200,OK,CollegeStudents 1-6,text,true,,104571,149,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,1201,0,0
+1719902192924,2081,HTTP Request,200,OK,CollegeStudents 1-4,text,true,,105309,298,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,659,0,0
+1719902192924,659,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-4,text,true,,738,149,10,10,http://www.shivajicollege.ac.in/aboutus/the_college.php,659,0,0
+1719902193583,1422,HTTP Request-1,200,OK,CollegeStudents 1-4,text,true,,104571,149,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,1397,0,0
+1719902192622,2556,HTTP Request,200,OK,CollegeStudents 1-9,text,true,,105309,298,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,958,0,0
+1719902192622,958,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-9,text,true,,738,149,10,10,http://www.shivajicollege.ac.in/aboutus/the_college.php,958,0,0
+1719902193581,1597,HTTP Request-1,200,OK,CollegeStudents 1-9,text,true,,104571,149,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,1557,0,0
+1719902192687,2760,HTTP Request,200,OK,CollegeStudents 1-3,text,true,,105309,298,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,896,0,0
+1719902192687,896,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-3,text,true,,738,149,10,10,http://www.shivajicollege.ac.in/aboutus/the_college.php,896,0,0
+1719902193583,1864,HTTP Request-1,200,OK,CollegeStudents 1-3,text,true,,104571,149,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,1837,0,0
+1719902194044,1758,HTTP Request,200,OK,CollegeStudents 1-2,text,true,,105309,298,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,555,0,0
+1719902194044,555,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-2,text,true,,738,149,10,10,http://www.shivajicollege.ac.in/aboutus/the_college.php,555,0,0
+1719902194599,1203,HTTP Request-1,200,OK,CollegeStudents 1-2,text,true,,104571,149,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,1179,0,0
+1719902193629,2205,HTTP Request,200,OK,CollegeStudents 1-10,text,true,,105309,298,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,970,0,0
+1719902193629,970,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-10,text,true,,738,149,10,10,http://www.shivajicollege.ac.in/aboutus/the_college.php,970,0,0
+1719902194599,1235,HTTP Request-1,200,OK,CollegeStudents 1-10,text,true,,104571,149,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,1209,0,0
+1719902193638,2470,HTTP Request,200,OK,CollegeStudents 1-1,text,true,,105309,298,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,961,0,0
+1719902193638,961,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-1,text,true,,738,149,10,10,http://www.shivajicollege.ac.in/aboutus/the_college.php,961,0,0
+1719902194599,1509,HTTP Request-1,200,OK,CollegeStudents 1-1,text,true,,104571,149,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,1472,0,0
+1719902194275,1993,HTTP Request,200,OK,CollegeStudents 1-7,text,true,,105309,298,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,327,0,0
+1719902194275,327,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-7,text,true,,738,149,10,10,http://www.shivajicollege.ac.in/aboutus/the_college.php,327,0,0
+1719902194602,1666,HTTP Request-1,200,OK,CollegeStudents 1-7,text,true,,104571,149,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,1636,0,0
+1719902194037,2667,HTTP Request,200,OK,CollegeStudents 1-8,text,true,,105309,298,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,565,0,0
+1719902194037,565,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-8,text,true,,738,149,10,10,http://www.shivajicollege.ac.in/aboutus/the_college.php,565,0,0
+1719902194602,2102,HTTP Request-1,200,OK,CollegeStudents 1-8,text,true,,104571,149,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,2083,0,0
+1719902194813,1956,HTTP Request,200,OK,CollegeStudents 1-6,text,true,,105309,298,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,951,0,0
+1719902194813,951,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-6,text,true,,738,149,10,10,http://www.shivajicollege.ac.in/aboutus/the_college.php,951,0,0
+1719902195765,1004,HTTP Request-1,200,OK,CollegeStudents 1-6,text,true,,104571,149,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,975,0,0
+1719902194641,2354,HTTP Request,200,OK,CollegeStudents 1-5,text,true,,105309,298,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,1123,0,0
+1719902194641,1123,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-5,text,true,,738,149,10,10,http://www.shivajicollege.ac.in/aboutus/the_college.php,1123,0,0
+1719902195765,1230,HTTP Request-1,200,OK,CollegeStudents 1-5,text,true,,104571,149,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,1211,0,0
+1719902195448,1805,HTTP Request,200,OK,CollegeStudents 1-3,text,true,,105309,298,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,318,0,0
+1719902195448,318,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-3,text,true,,738,149,10,10,http://www.shivajicollege.ac.in/aboutus/the_college.php,318,0,0
+1719902195766,1487,HTTP Request-1,200,OK,CollegeStudents 1-3,text,true,,104571,149,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,1455,0,0
+1719902195005,2375,HTTP Request,200,OK,CollegeStudents 1-4,text,true,,105309,298,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,762,0,0
+1719902195005,763,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-4,text,true,,738,149,10,10,http://www.shivajicollege.ac.in/aboutus/the_college.php,762,0,0
+1719902195768,1612,HTTP Request-1,200,OK,CollegeStudents 1-4,text,true,,104571,149,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,1590,0,0
+1719902195835,2051,HTTP Request,200,OK,CollegeStudents 1-10,text,true,,105309,298,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,895,0,0
+1719902195835,895,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-10,text,true,,738,149,10,10,http://www.shivajicollege.ac.in/aboutus/the_college.php,895,0,0
+1719902196730,1156,HTTP Request-1,200,OK,CollegeStudents 1-10,text,true,,104571,149,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,1131,0,0
+1719902195179,3062,HTTP Request,200,OK,CollegeStudents 1-9,text,true,,105309,298,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,587,0,0
+1719902195179,587,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-9,text,true,,738,149,10,10,http://www.shivajicollege.ac.in/aboutus/the_college.php,587,0,0
+1719902195766,2475,HTTP Request-1,200,OK,CollegeStudents 1-9,text,true,,104571,149,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,2444,0,0
+1719902196268,2084,HTTP Request,200,OK,CollegeStudents 1-7,text,true,,105309,298,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,463,0,0
+1719902196268,463,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-7,text,true,,738,149,10,10,http://www.shivajicollege.ac.in/aboutus/the_college.php,463,0,0
+1719902196731,1621,HTTP Request-1,200,OK,CollegeStudents 1-7,text,true,,104571,149,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,1590,0,0
+1719902195803,2908,HTTP Request,200,OK,CollegeStudents 1-2,text,true,,105309,298,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,927,0,0
+1719902195803,927,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-2,text,true,,738,149,10,10,http://www.shivajicollege.ac.in/aboutus/the_college.php,927,0,0
+1719902196730,1981,HTTP Request-1,200,OK,CollegeStudents 1-2,text,true,,104571,149,10,10,https://www.shivajicollege.ac.in/aboutus/the_college.php,1956,0,0
+1719902196109,2766,HTTP Request,200,OK,CollegeStudents 1-1,text,true,,105309,298,9,9,https://www.shivajicollege.ac.in/aboutus/the_college.php,621,0,0
+1719902196109,621,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-1,text,true,,738,149,9,9,http://www.shivajicollege.ac.in/aboutus/the_college.php,621,0,0
+1719902196730,2145,HTTP Request-1,200,OK,CollegeStudents 1-1,text,true,,104571,149,9,9,https://www.shivajicollege.ac.in/aboutus/the_college.php,2122,0,0
+1719902197254,1831,HTTP Request,200,OK,CollegeStudents 1-3,text,true,,105309,298,8,8,https://www.shivajicollege.ac.in/aboutus/the_college.php,598,0,0
+1719902197254,598,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-3,text,true,,738,149,8,8,http://www.shivajicollege.ac.in/aboutus/the_college.php,598,0,0
+1719902197852,1233,HTTP Request-1,200,OK,CollegeStudents 1-3,text,true,,104571,149,8,8,https://www.shivajicollege.ac.in/aboutus/the_college.php,1212,0,0
+1719902197381,2361,HTTP Request,200,OK,CollegeStudents 1-4,text,true,,105309,298,7,7,https://www.shivajicollege.ac.in/aboutus/the_college.php,473,0,0
+1719902197381,473,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-4,text,true,,738,149,7,7,http://www.shivajicollege.ac.in/aboutus/the_college.php,473,0,0
+1719902197854,1888,HTTP Request-1,200,OK,CollegeStudents 1-4,text,true,,104571,149,7,7,https://www.shivajicollege.ac.in/aboutus/the_college.php,1868,0,0
+1719902196770,3059,HTTP Request,200,OK,CollegeStudents 1-6,text,true,,105309,298,6,6,https://www.shivajicollege.ac.in/aboutus/the_college.php,1082,0,0
+1719902196770,1082,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-6,text,true,,738,149,6,6,http://www.shivajicollege.ac.in/aboutus/the_college.php,1082,0,0
+1719902197852,1977,HTTP Request-1,200,OK,CollegeStudents 1-6,text,true,,104571,149,6,6,https://www.shivajicollege.ac.in/aboutus/the_college.php,1942,0,0
+1719902196706,3250,HTTP Request,200,OK,CollegeStudents 1-8,text,true,,105309,298,5,5,https://www.shivajicollege.ac.in/aboutus/the_college.php,1148,0,0
+1719902196706,1148,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-8,text,true,,738,149,5,5,http://www.shivajicollege.ac.in/aboutus/the_college.php,1148,0,0
+1719902197854,2102,HTTP Request-1,200,OK,CollegeStudents 1-8,text,true,,104571,149,5,5,https://www.shivajicollege.ac.in/aboutus/the_college.php,2084,0,0
+1719902197887,2605,HTTP Request,200,OK,CollegeStudents 1-10,text,true,,105309,298,5,5,https://www.shivajicollege.ac.in/aboutus/the_college.php,1169,0,0
+1719902197887,1169,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-10,text,true,,738,149,5,5,http://www.shivajicollege.ac.in/aboutus/the_college.php,1169,0,0
+1719902199057,1435,HTTP Request-1,200,OK,CollegeStudents 1-10,text,true,,104571,149,5,5,https://www.shivajicollege.ac.in/aboutus/the_college.php,1412,0,0
+1719902196996,3501,HTTP Request,200,OK,CollegeStudents 1-5,text,true,,105309,298,4,4,https://www.shivajicollege.ac.in/aboutus/the_college.php,857,0,0
+1719902196996,857,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-5,text,true,,738,149,4,4,http://www.shivajicollege.ac.in/aboutus/the_college.php,857,0,0
+1719902197853,2644,HTTP Request-1,200,OK,CollegeStudents 1-5,text,true,,104571,149,4,4,https://www.shivajicollege.ac.in/aboutus/the_college.php,2624,0,0
+1719902198242,2488,HTTP Request,200,OK,CollegeStudents 1-9,text,true,,105309,298,3,3,https://www.shivajicollege.ac.in/aboutus/the_college.php,815,0,0
+1719902198242,816,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-9,text,true,,738,149,3,3,http://www.shivajicollege.ac.in/aboutus/the_college.php,815,0,0
+1719902199058,1672,HTTP Request-1,200,OK,CollegeStudents 1-9,text,true,,104571,149,3,3,https://www.shivajicollege.ac.in/aboutus/the_college.php,1643,0,0
+1719902198353,2460,HTTP Request,200,OK,CollegeStudents 1-7,text,true,,105309,298,3,3,https://www.shivajicollege.ac.in/aboutus/the_college.php,705,0,0
+1719902198353,705,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-7,text,true,,738,149,3,3,http://www.shivajicollege.ac.in/aboutus/the_college.php,705,0,0
+1719902199058,1755,HTTP Request-1,200,OK,CollegeStudents 1-7,text,true,,104571,149,3,3,https://www.shivajicollege.ac.in/aboutus/the_college.php,1727,0,0
+1719902199956,863,HTTP Request,200,OK,CollegeStudents 1-8,text,true,,105309,298,2,2,https://www.shivajicollege.ac.in/aboutus/the_college.php,47,0,0
+1719902199956,47,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-8,text,true,,738,149,2,2,http://www.shivajicollege.ac.in/aboutus/the_college.php,47,0,0
+1719902200004,815,HTTP Request-1,200,OK,CollegeStudents 1-8,text,true,,104571,149,2,2,https://www.shivajicollege.ac.in/aboutus/the_college.php,796,0,0
+1719902200730,520,HTTP Request,200,OK,CollegeStudents 1-9,text,true,,105309,298,1,1,https://www.shivajicollege.ac.in/aboutus/the_college.php,41,0,0
+1719902200730,41,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-9,text,true,,738,149,1,1,http://www.shivajicollege.ac.in/aboutus/the_college.php,41,0,0
+1719902200771,479,HTTP Request-1,200,OK,CollegeStudents 1-9,text,true,,104571,149,1,1,https://www.shivajicollege.ac.in/aboutus/the_college.php,456,0,0

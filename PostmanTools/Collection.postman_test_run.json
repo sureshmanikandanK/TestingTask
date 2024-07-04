@@ -1,0 +1,239 @@
+{
+	"id": "ba7a711c-1014-45e2-888d-0eafb28060f6",
+	"name": "Collection",
+	"timestamp": "2024-07-04T06:03:40.195Z",
+	"collection_id": "36734973-2dae0f17-2ba4-4978-9c5b-c867ee43262d",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 7,
+	"delay": 0,
+	"persist": true,
+	"status": "finished",
+	"startedAt": "2024-07-04T06:03:38.802Z",
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "1ba6dc7d-4083-4253-98f3-b50e814b27aa",
+			"name": "foodMenu",
+			"url": "http://localhost:8888/foodMenu",
+			"time": 12,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				12
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "da9d1aa1-bc9a-4eff-9bac-21ce28c1a24b",
+			"name": "foodMenu/1",
+			"url": "http://localhost:8888/foodMenu/2",
+			"time": 66,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				66
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "f6c6dba5-3432-4f09-8131-b48e4bc162ae",
+			"name": "/foodMenu/1PutMethod",
+			"url": "http://localhost:8888/foodMenu/2",
+			"time": 20,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				20
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "bd0aeaa8-a157-4149-bad9-269bf7205fee",
+			"name": "http://localhost:8888/foodMenu",
+			"url": "http://localhost:8888/foodMenu",
+			"time": 19,
+			"responseCode": {
+				"code": 201,
+				"name": "Created"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				19
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "8bfe5f9e-efcf-41a3-944b-c9023c12e701",
+			"name": "http://localhost:8888/foodMenu/1",
+			"url": "http://localhost:8888/foodMenu/2",
+			"time": 18,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				18
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "dd5d7caf-8966-42b3-b080-1dcf91065e31",
+			"name": "http://localhost:8888/foodMenu/4",
+			"url": "http://localhost:8888/foodMenu/4",
+			"time": 19,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				19
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "3888ad31-bc36-4c33-adb5-e14b839ca0b2",
+			"name": "http://localhost:8888/foodMenu/3",
+			"url": "http://localhost:8888/foodMenu/4",
+			"time": 4,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				4
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 158,
+	"collection": {
+		"requests": [
+			{
+				"id": "1ba6dc7d-4083-4253-98f3-b50e814b27aa",
+				"method": "GET"
+			},
+			{
+				"id": "da9d1aa1-bc9a-4eff-9bac-21ce28c1a24b",
+				"method": "GET"
+			},
+			{
+				"id": "f6c6dba5-3432-4f09-8131-b48e4bc162ae",
+				"method": "PUT"
+			},
+			{
+				"id": "bd0aeaa8-a157-4149-bad9-269bf7205fee",
+				"method": "POST"
+			},
+			{
+				"id": "8bfe5f9e-efcf-41a3-944b-c9023c12e701",
+				"method": "DELETE"
+			},
+			{
+				"id": "dd5d7caf-8966-42b3-b080-1dcf91065e31",
+				"method": "PATCH"
+			},
+			{
+				"id": "3888ad31-bc36-4c33-adb5-e14b839ca0b2",
+				"method": "GET"
+			}
+		]
+	}
+}

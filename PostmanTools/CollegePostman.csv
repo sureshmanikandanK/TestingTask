@@ -1,0 +1,332 @@
+{
+	"id": "6954c117-e079-4918-b3c3-977ee553a050",
+	"name": "Collection1",
+	"timestamp": "2024-07-04T06:25:04.388Z",
+	"collection_id": "36734973-6a0f49ee-60bb-4d1b-85d8-45c699b5cc34",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 10,
+	"delay": 0,
+	"persist": true,
+	"status": "finished",
+	"startedAt": "2024-07-04T06:25:01.809Z",
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "6d244e69-8d71-4f9b-a26d-3bf98ec870a7",
+			"name": "EnglishDept",
+			"url": "https://shivajicollegekannad.org/departments/index/6",
+			"time": 172,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				172
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "313eef58-2cfc-47f4-a1e7-d357f6e90d2b",
+			"name": "MarathiDept",
+			"url": "https://shivajicollegekannad.org/departments/index/7",
+			"time": 45,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				45
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "5c75f516-c26f-4346-9326-6def65f3b807",
+			"name": "HindiDept",
+			"url": "https://shivajicollegekannad.org/departments/index/8",
+			"time": 42,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				42
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "77aef329-d7df-4202-8677-2d9eb41ce59a",
+			"name": "HistoryDept",
+			"url": "https://shivajicollegekannad.org/departments/index/9",
+			"time": 52,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				52
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "eebdc32f-dc2f-47f5-b2d3-74e4ee888272",
+			"name": "PoliticalScienceDept",
+			"url": "https://shivajicollegekannad.org/departments/index/10",
+			"time": 46,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				46
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "319dbed2-c2b2-4f91-88ae-c3b852724625",
+			"name": "PsycologyDept",
+			"url": "https://shivajicollegekannad.org/departments/index/11",
+			"time": 42,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				42
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "cfc0b0a9-f8d3-4d6d-b065-a729294a5e56",
+			"name": "PublicAdministrationDept",
+			"url": "https://shivajicollegekannad.org/departments/index/12",
+			"time": 45,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				45
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "8441e214-f6a6-4892-b0fe-eebeaa7fc925",
+			"name": "SocialDept",
+			"url": "https://shivajicollegekannad.org/departments/index/13",
+			"time": 50,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				50
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "d43121b8-995a-444f-8ea9-0fad92f684f6",
+			"name": "EconomicsDept",
+			"url": "https://shivajicollegekannad.org/departments/index/19",
+			"time": 50,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				50
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "54df8918-53ff-4d5a-a13a-4ae4e21a7bc9",
+			"name": "PhysicsDept",
+			"url": "https://shivajicollegekannad.org/departments/index/1",
+			"time": 45,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				45
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 589,
+	"collection": {
+		"requests": [
+			{
+				"id": "6d244e69-8d71-4f9b-a26d-3bf98ec870a7",
+				"method": "GET"
+			},
+			{
+				"id": "313eef58-2cfc-47f4-a1e7-d357f6e90d2b",
+				"method": "GET"
+			},
+			{
+				"id": "5c75f516-c26f-4346-9326-6def65f3b807",
+				"method": "GET"
+			},
+			{
+				"id": "77aef329-d7df-4202-8677-2d9eb41ce59a",
+				"method": "GET"
+			},
+			{
+				"id": "eebdc32f-dc2f-47f5-b2d3-74e4ee888272",
+				"method": "GET"
+			},
+			{
+				"id": "319dbed2-c2b2-4f91-88ae-c3b852724625",
+				"method": "GET"
+			},
+			{
+				"id": "cfc0b0a9-f8d3-4d6d-b065-a729294a5e56",
+				"method": "GET"
+			},
+			{
+				"id": "8441e214-f6a6-4892-b0fe-eebeaa7fc925",
+				"method": "GET"
+			},
+			{
+				"id": "d43121b8-995a-444f-8ea9-0fad92f684f6",
+				"method": "GET"
+			},
+			{
+				"id": "54df8918-53ff-4d5a-a13a-4ae4e21a7bc9",
+				"method": "GET"
+			}
+		]
+	}
+}
