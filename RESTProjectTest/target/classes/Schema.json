@@ -1,0 +1,217 @@
+{
+  "foodMenu": [
+    {
+      "id": "3",
+      "fname": "Chesse Pizza Family Pack",
+      "fdesc": "Cheese Pizza. Although a Margherita pizza is technically a cheese pizza, a 'regular cheese pizza' is a more basic meal with just tomato sauce topped with cheese. Typically a cheese pizza will also use mozzarella but other cheeses such as parmesan may also be mixed in the toppings.",
+      "price": "350"
+    },
+    {
+      "id": "4",
+      "fname": " Burger",
+      "fdesc": "Cheese Pizza. Although a Margherita pizza is technically a cheese pizza, a 'regular cheese pizza' is a more basic meal with just tomato sauce topped with cheese. Typically a cheese pizza will also use mozzarella but other cheeses such as parmesan may also be mixed in the toppings.",
+      "price": "350"
+    },
+    {
+      "id": "5",
+      "fname": "Chesse  XL",
+      "fdesc": "Cheese Pizza. Although a Margherita pizza is technically a cheese pizza, a 'regular cheese pizza' is a more basic meal with just tomato sauce topped with cheese. Typically a cheese pizza will also use mozzarella but other cheeses such as parmesan may also be mixed in the toppings.",
+      "price": "350"
+    },
+    {
+      "id": "6",
+      "fname": "Chesse  Family Pack",
+      "fdesc": "Cheese Pizza. Although a Margherita pizza is technically a cheese pizza, a 'regular cheese pizza' is a more basic meal with just tomato sauce topped with cheese. Typically a cheese pizza will also use mozzarella but other cheeses such as parmesan may also be mixed in the toppings.",
+      "price": "350"
+    },
+    {
+      "id": "7",
+      "fname": "Chicken Pizza",
+      "fdesc": "Cheese Pizza. Although a Margherita pizza is technically a cheese pizza, a 'regular cheese pizza' is a more basic meal with just tomato sauce topped with cheese. Typically a cheese pizza will also use mozzarella but other cheeses such as parmesan may also be mixed in the toppings.",
+      "price": "350"
+    },
+    {
+      "id": "8",
+      "fname": "Mutton Pizza XL",
+      "fdesc": "Cheese Pizza. Although a Margherita pizza is technically a cheese pizza, a 'regular cheese pizza' is a more basic meal with just tomato sauce topped with cheese. Typically a cheese pizza will also use mozzarella but other cheeses such as parmesan may also be mixed in the toppings.",
+      "price": "350"
+    },
+    {
+      "id": "9",
+      "fname": " Beef Family Pack",
+      "fdesc": "Cheese Pizza. Although a Margherita pizza is technically a cheese pizza, a 'regular cheese pizza' is a more basic meal with just tomato sauce topped with cheese. Typically a cheese pizza will also use mozzarella but other cheeses such as parmesan may also be mixed in the toppings.",
+      "price": "350"
+    },
+    {
+      "id": "55",
+      "fname": "Chesse Pizza Family Pack",
+      "fdesc": "Cheese Pizza. Although a Margherita pizza is technically a cheese pizza, a 'regular cheese pizza' is a more basic meal with just tomato sauce topped with cheese. Typically a cheese pizza will also use mozzarella but other cheeses such as parmesan may also be mixed in the toppings.",
+      "price": "350"
+    },
+    {
+      "id": "55",
+      "fname": "Chesse Pizza Family Pack",
+      "fdesc": "Cheese Pizza. Although a Margherita pizza is technically a cheese pizza, a 'regular cheese pizza' is a more basic meal with just tomato sauce topped with cheese. Typically a cheese pizza will also use mozzarella but other cheeses such as parmesan may also be mixed in the toppings.",
+      "price": "350"
+    },
+    {
+      "id": "55",
+      "fname": "Chesse Pizza Family Pack",
+      "fdesc": "Cheese Pizza. Although a Margherita pizza is technically a cheese pizza, a 'regular cheese pizza' is a more basic meal with just tomato sauce topped with cheese. Typically a cheese pizza will also use mozzarella but other cheeses such as parmesan may also be mixed in the toppings.",
+      "price": "350"
+    },
+    {
+      "id": "55",
+      "fname": "Chesse Pizza Family Pack",
+      "fdesc": "Cheese Pizza. Although a Margherita pizza is technically a cheese pizza, a 'regular cheese pizza' is a more basic meal with just tomato sauce topped with cheese. Typically a cheese pizza will also use mozzarella but other cheeses such as parmesan may also be mixed in the toppings.",
+      "price": "350"
+    },
+    {
+      "id": "55",
+      "fname": "Chesse Pizza Family Pack",
+      "fdesc": "Cheese Pizza. Although a Margherita pizza is technically a cheese pizza, a 'regular cheese pizza' is a more basic meal with just tomato sauce topped with cheese. Typically a cheese pizza will also use mozzarella but other cheeses such as parmesan may also be mixed in the toppings.",
+      "price": "350"
+    },
+    {
+      "id": "55",
+      "fname": "Chesse Pizza Family Pack",
+      "fdesc": "Cheese Pizza. Although a Margherita pizza is technically a cheese pizza, a 'regular cheese pizza' is a more basic meal with just tomato sauce topped with cheese. Typically a cheese pizza will also use mozzarella but other cheeses such as parmesan may also be mixed in the toppings.",
+      "price": "350"
+    },
+    {
+      "id": "55",
+      "fname": "Chesse Pizza Family Pack",
+      "fdesc": "Cheese Pizza. Although a Margherita pizza is technically a cheese pizza, a 'regular cheese pizza' is a more basic meal with just tomato sauce topped with cheese. Typically a cheese pizza will also use mozzarella but other cheeses such as parmesan may also be mixed in the toppings.",
+      "price": "350"
+    },
+    {
+      "id": "55",
+      "fname": "Chesse Pizza Family Pack",
+      "fdesc": "Cheese Pizza. Although a Margherita pizza is technically a cheese pizza, a 'regular cheese pizza' is a more basic meal with just tomato sauce topped with cheese. Typically a cheese pizza will also use mozzarella but other cheeses such as parmesan may also be mixed in the toppings.",
+      "price": "350"
+    },
+    {
+      "id": "55",
+      "fname": "Chesse Pizza Family Pack",
+      "fdesc": "Cheese Pizza. Although a Margherita pizza is technically a cheese pizza, a 'regular cheese pizza' is a more basic meal with just tomato sauce topped with cheese. Typically a cheese pizza will also use mozzarella but other cheeses such as parmesan may also be mixed in the toppings.",
+      "price": "350"
+    }
+  ],
+  "user": [
+    {
+      "id": "1",
+      "userId": "admin@gmail.com",
+      "userPass": "admin@123"
+    },
+    {
+      "id": "2",
+      "userId": "suresh@gmail.com",
+      "userPass": "suresh@123"
+    },
+    {
+      "id": "3",
+      "userId": "manikandan@gmail.com",
+      "userPass": "manikandan@123"
+    },
+    {
+      "id": "cc93",
+      "userId": "Ravi123@gmail.com",
+      "userPass": "Ravi@123"
+    },
+    {
+      "id": "72a3",
+      "userId": "gduksdgks",
+      "userPass": "dgskjgdlus"
+    },
+    {
+      "id": "733f",
+      "userId": "Dhanesh@gmail.com",
+      "userPass": "dhanesh@123"
+    },
+    {
+      "id": "e33c",
+      "userId": "manoj00714@gmail.com",
+      "userPass": "12345"
+    },
+    {
+      "id": "98b1",
+      "email": "Ravi123@gmail.com",
+      "password": "Ravi@123"
+    },
+    {
+      "id": "3c36",
+      "email": "manikandan@gmail.com",
+      "password": "manikandan@123"
+    },
+    {
+      "id": "6c81",
+      "userId": "suresh@gmail.com",
+      "userPass": "Suresh@123"
+    },
+    {
+      "id": "d4cd",
+      "userId": "suresh@gmail.com",
+      "userPass": "Suresh@12334"
+    },
+    {
+      "id": "808e",
+      "userId": "suresh@gmail.com",
+      "userPass": "Suresh@12334"
+    },
+    {
+      "id": "3e91",
+      "userId": "suresh@gmail.com",
+      "userPass": "Suresh@12334"
+    },
+    {
+      "id": "a40d",
+      "userId": "suresh@gmail.com",
+      "userPass": "Suresh@12334"
+    },
+    {
+      "id": "7a1c",
+      "userId": "suresh@gmail.com",
+      "userPass": "Suresh@12334"
+    },
+    {
+      "id": "8062",
+      "userId": "admin@gmail.com",
+      "userPass": "admin@123"
+    },
+    {
+      "id": "22c4",
+      "userId": "manikandan@gmail.com",
+      "userPass": "manikandan@123"
+    },
+    {
+      "id": "cf01",
+      "userId": "Ravi123@gmail.com",
+      "userPass": "Ravi@123"
+    },
+    {
+      "id": "80ec",
+      "userId": "Dhanesh@gmail.com",
+      "userPass": "dhanesh@123"
+    },
+    {
+      "id": "f68c",
+      "userPass": "Software Developer",
+      "userId": "Monica"
+    },
+    {
+      "id": "4d68",
+      "name": "Monica",
+      "job": "Software Developer"
+    },
+    {
+      "userPass": "Software Engineer",
+      "userId": "Monica",
+      "id": "b73a"
+    },
+    {
+      "id": "503f",
+      "userPass": "Sathish@12345",
+      "userId": "Sathish@gmail.com"
+    }
+  ]
+}
