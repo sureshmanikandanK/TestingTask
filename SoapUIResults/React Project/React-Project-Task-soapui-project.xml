@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-project id="32f49dd0-9855-47d2-9e9c-1b2bc54ecb67" activeEnvironment="Default" name="React Project Task" resourceRoot="" soapui-version="5.7.2" xmlns:con="http://eviware.com/soapui/config"><con:settings/><con:interface xsi:type="con:RestService" id="e4b78fbe-7e87-4cc6-93e6-5b1d881d8188" wadlVersion="http://wadl.dev.java.net/2009/02" name="http://localhost:4040" type="rest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:settings/><con:definitionCache type="TEXT" rootPart=""/><con:endpoints><con:endpoint>http://localhost:4040</con:endpoint></con:endpoints><con:resource name="FoodMenu" path="/foodMenu" id="dcba943b-758c-4154-a531-9ce8f5418a16"><con:settings/><con:parameters/><con:method name="FoodMenu 1" id="d154c4d8-a1b1-432d-8abb-24325d5fafd4" method="POST"><con:settings/><con:parameters/><con:representation type="RESPONSE"><con:mediaType>application/json</con:mediaType><con:status>200 201</con:status><con:params/><con:element>Response</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>500</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="REQUEST"><con:mediaType>application/json</con:mediaType><con:params/></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>500</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>500</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>500</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType>text/plain; charset=utf-8</con:mediaType><con:status>404</con:status><con:params/><con:element>data</con:element></con:representation><con:request name="Request 2" id="40216ed9-8be9-441e-a7c1-c2888c4b74a3" mediaType="application/json" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>http://localhost:4040</con:endpoint><con:request> {
+      "id": "12",
+      "fname": "Non Chesse Pizza Family Pack",
+      "fdesc": "Cheese Pizza. Although a Margherita pizza is technically a cheese pizza, a 'regular cheese pizza' is a more basic meal with just tomato sauce topped with cheese. Typically a cheese pizza will also use mozzarella but other cheeses such as parmesan may also be mixed in the toppings.",
+      "price": "455"
+   }
+     </con:request><con:originalUri>http://localhost/foodMenu</con:originalUri><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:request></con:method></con:resource></con:interface><con:interface xsi:type="con:RestService" id="9a62384c-7469-45f6-8a43-697fd10deb73" wadlVersion="http://wadl.dev.java.net/2009/02" name="http://localhost:4040" type="rest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:settings/><con:definitionCache type="TEXT" rootPart=""/><con:endpoints><con:endpoint>http://localhost:4040</con:endpoint></con:endpoints><con:resource name="3" path="/foodMenu/3" id="7e9ea6fa-d756-46a8-bbaa-213d7d658642"><con:settings/><con:parameters/><con:method name="3 1" id="766d5858-d59a-4f91-967b-aabfebfed6fb" method="PUT"><con:settings/><con:parameters/><con:representation type="RESPONSE"><con:mediaType>application/json</con:mediaType><con:status>200</con:status><con:params/><con:element xmlns:ns="http://localhost/foodMenu/3">ns:Response</con:element></con:representation><con:representation type="REQUEST"><con:mediaType>application/json</con:mediaType><con:params/></con:representation><con:request name="Request 2" id="835f1576-2cda-4f33-8f6d-7dfe4ea0f4fc" mediaType="application/json" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>http://localhost:4040</con:endpoint><con:request>{
+    "id": "3",
+    "fname": "Non Chesse Pizza Family Pack",
+    "fdesc": "Cheese Pizza. Although a Margherita pizza is technically a cheese pizza, a 'regular cheese pizza' is a more basic meal with just tomato sauce topped with cheese. Typically a cheese pizza will also use mozzarella but other cheeses such as parmesan may also be mixed in the toppings.",
+    "price": "350"
+}</con:request><con:originalUri>http://localhost/foodMenu/3</con:originalUri><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:request></con:method></con:resource></con:interface><con:interface xsi:type="con:RestService" id="eb01cd0b-4dba-4ac8-8900-b3f455f61973" wadlVersion="http://wadl.dev.java.net/2009/02" name="http://localhost:4040" type="rest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:settings/><con:definitionCache type="TEXT" rootPart=""/><con:endpoints><con:endpoint>http://localhost:4040</con:endpoint></con:endpoints><con:resource name="FoodMenu" path="/foodMenu/55" id="02335ad5-42eb-4498-a6be-d1ce8243d2c7"><con:settings/><con:parameters/><con:method name="FoodMenu 1" id="4ddf75ec-84ef-4b56-a643-dbb6a04325bf" method="DELETE"><con:settings/><con:parameters/><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>500</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="REQUEST"><con:mediaType>application/json</con:mediaType><con:params/></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>500</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>500</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>500</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>500</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>500</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>500</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="RESPONSE"><con:mediaType>application/json</con:mediaType><con:status>200</con:status><con:params/><con:element xmlns:food="http://localhost/foodMenu">food:Response</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>500</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>500</con:status><con:params/><con:element>data</con:element></con:representation><con:representation type="FAULT"><con:mediaType xsi:nil="true"/><con:status>500</con:status><con:params/><con:element>data</con:element></con:representation><con:request name="Del Request" id="aaa7a91c-7e15-4b2f-b720-ed55d1e51543" mediaType="application/json" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>http://localhost:4040</con:endpoint><con:request> {
+        "id": "55",
+        "fname": "Chesse Pizza Family Pack",
+        "fdesc": "Cheese Pizza. Although a Margherita pizza is technically a cheese pizza, a 'regular cheese pizza' is a more basic meal with just tomato sauce topped with cheese. Typically a cheese pizza will also use mozzarella but other cheeses such as parmesan may also be mixed in the toppings.",
+        "price": "350"
+    }</con:request><con:originalUri>http://localhost/foodMenu</con:originalUri><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:request></con:method></con:resource></con:interface><con:interface xsi:type="con:RestService" id="b370516c-a0bb-49ef-ada7-46b872477e8b" wadlVersion="http://wadl.dev.java.net/2009/02" name="http://localhost:4040" type="rest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:settings/><con:definitionCache type="TEXT" rootPart=""/><con:endpoints><con:endpoint>http://localhost:4040</con:endpoint></con:endpoints><con:resource name="FoodMenu" path="/foodMenu" id="75727a84-0671-41fa-bc53-093fcf0ca984"><con:settings/><con:parameters/><con:method name="FoodMenu Get" id="a27e34b7-9f2d-4dbf-b49b-96035e02dd15" method="GET"><con:settings/><con:parameters/><con:representation type="RESPONSE"><con:mediaType>application/json</con:mediaType><con:status>200</con:status><con:params/><con:element>Response</con:element></con:representation><con:request name="Request 1" id="c6196c93-87f4-47d5-8e43-607fa39498a0" mediaType="application/json"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>http://localhost:4040</con:endpoint><con:request/><con:originalUri>http://localhost/foodMenu</con:originalUri><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:request></con:method></con:resource></con:interface><con:testSuite id="acfcb712-30f8-445c-86af-f370e94434c2" name="TestSuite"><con:description>TestSuite generated for REST Service [http://localhost:4040]</con:description><con:settings/><con:runType>SEQUENTIAL</con:runType><con:testCase id="41e5f4cf-7d69-4198-a133-8c8eb21651d7" failOnError="true" failTestCaseOnErrors="true" keepSession="false" maxResults="0" name="TestCase" searchProperties="true"><con:description>TestCase generated for REST Resource [] located at []</con:description><con:settings/><con:testStep type="restrequest" name="FoodMenu 1 - Request 2" id="faf3558f-22a5-480d-b5f7-489c961d641a"><con:settings/><con:config service="http://localhost:4040" resourcePath="/foodMenu" methodName="FoodMenu 1" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="FoodMenu 1 - Request 2" id="40216ed9-8be9-441e-a7c1-c2888c4b74a3" mediaType="application/json" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>http://localhost:4040</con:endpoint><con:request> {
+      "id": "3",
+      "fname": "Non Chesse Pizza Family Pack",
+      "fdesc": "Cheese Pizza. Although a Margherita pizza is technically a cheese pizza, a 'regular cheese pizza' is a more basic meal with just tomato sauce topped with cheese. Typically a cheese pizza will also use mozzarella but other cheeses such as parmesan may also be mixed in the toppings.",
+      "price": "455"
+   }
+     </con:request><con:originalUri>http://localhost/foodMenu</con:originalUri><con:assertion type="Simple Contains" id="318f7b0a-c7c5-4b86-8013-60b2e0edef28" name="Contains"><con:configuration><token>Cheese</token><ignoreCase>false</ignoreCase><useRegEx>false</useRegEx></con:configuration></con:assertion><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:restRequest></con:config></con:testStep><con:testStep type="restrequest" name="3 1 - Request 2" id="05160421-e3c9-450a-8085-bdbf173066fe"><con:settings/><con:config service="http://localhost:4040" resourcePath="/foodMenu/3" methodName="3 1" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="3 1 - Request 2" id="835f1576-2cda-4f33-8f6d-7dfe4ea0f4fc" mediaType="application/json" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>http://localhost:4040</con:endpoint><con:request>{
+    "id": "3",
+    "fname": "Non Chesse Pizza Family Pack",
+    "fdesc": "Cheese Pizza. Although a Margherita pizza is technically a cheese pizza, a 'regular cheese pizza' is a more basic meal with just tomato sauce topped with cheese. Typically a cheese pizza will also use mozzarella but other cheeses such as parmesan may also be mixed in the toppings.",
+    "price": "350"
+}</con:request><con:originalUri>http://localhost/foodMenu/3</con:originalUri><con:assertion type="Simple Contains" id="ecbd0897-e0b5-424c-834e-50a405713377" name="Contains"><con:configuration><token>price</token><ignoreCase>false</ignoreCase><useRegEx>false</useRegEx></con:configuration></con:assertion><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:restRequest></con:config></con:testStep><con:testStep type="restrequest" name="FoodMenu 1 - Del Request" id="7b088acc-4979-4758-b655-d2bfb170c26b"><con:settings/><con:config service="http://localhost:4040" resourcePath="/foodMenu/55" methodName="FoodMenu 1" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="FoodMenu 1 - Del Request" id="aaa7a91c-7e15-4b2f-b720-ed55d1e51543" mediaType="application/json" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>http://localhost:4040</con:endpoint><con:request> {
+        "id": "55",
+        "fname": "Chesse Pizza Family Pack",
+        "fdesc": "Cheese Pizza. Although a Margherita pizza is technically a cheese pizza, a 'regular cheese pizza' is a more basic meal with just tomato sauce topped with cheese. Typically a cheese pizza will also use mozzarella but other cheeses such as parmesan may also be mixed in the toppings.",
+        "price": "350"
+    }</con:request><con:originalUri>http://localhost/foodMenu</con:originalUri><con:assertion type="Simple Contains" id="85d937f9-9c7e-498a-84b7-1d94f352cc21" name="Contains"><con:configuration><token>price</token><ignoreCase>false</ignoreCase><useRegEx>false</useRegEx></con:configuration></con:assertion><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:restRequest></con:config></con:testStep><con:testStep type="restrequest" name="FoodMenu Get - Request 1" id="e09c1434-fa11-4a97-a1d0-27f329022f8b"><con:settings/><con:config service="http://localhost:4040" resourcePath="/foodMenu" methodName="FoodMenu Get" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="FoodMenu Get - Request 1" id="c6196c93-87f4-47d5-8e43-607fa39498a0" mediaType="application/json"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>http://localhost:4040</con:endpoint><con:request/><con:originalUri>http://localhost/foodMenu</con:originalUri><con:assertion type="Simple Contains" id="a105911a-971e-473d-ad9a-bff8868e1b65" name="Contains"><con:configuration><token>Burger</token><ignoreCase>false</ignoreCase><useRegEx>false</useRegEx></con:configuration></con:assertion><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:restRequest></con:config></con:testStep><con:tearDownScript>// Code to execute the GenerateCSVReport test step
+testRunner.testCase.testSuite.project.testSuites["Library"].testCases["Reporting_Utility"].
+testSteps["GenerateCSVReport"].run(testRunner, context);</con:tearDownScript><con:properties/></con:testCase><con:properties/></con:testSuite><con:testSuite id="1c3397fc-9c0b-4e87-84df-ab71f742c118" name="Library"><con:settings/><con:runType>SEQUENTIAL</con:runType><con:testCase id="9c5b5878-b922-498f-ad48-e4f7f21ab95f" failOnError="true" failTestCaseOnErrors="true" keepSession="false" maxResults="0" name="TestCase 1" searchProperties="true"><con:settings/><con:testStep type="groovy" name="GenerateCSVReport" id="607427c8-1d41-4a69-8b4b-e0431ea0c230"><con:settings/><con:config><script>// Try-catch block to handle exceptions
+try {
+
+// 1. Create a "SoapUIResults" folder in the project path 
+      // Retrieve the project root folder
+      def projectPath = new com.eviware.soapui.support.GroovyUtils(context).projectPath
+
+      // Specify a folder inside project root to store the results
+      String folderPath = projectPath + "/SoapUIResults";
+
+      // Create a File object for the specified path
+      def resultFolder = new File(folderPath);
+
+      // Check for existence of folder and create a folder
+      if(!resultFolder.exists())
+      {
+        resultFolder.mkdirs();
+      }
+
+/* ------------------------------------------------------------------------------- */
+
+// 2. Create a subfolder (with timestamp) to store the request-response local copy 
+      // Retrieve the latest execution date-time
+      Date d = new Date();
+      def executionDate = d.format("dd-MMM-yyyy HH_mm");
+
+      // Specify the subfolder path with name Request-Response_CurrentTimeStamp
+      String subfolderPath1 = folderPath+ "/Request-Response_"+executionDate;
+
+      // Create this sub-folder
+      new File(subfolderPath1).mkdirs();
+
+/* ------------------------------------------------------------------------------- */
+
+// 3. Create another subfolder "CSV Reports" to store the reports file 
+      // Specify the subfolder path with name CSV Reports
+      String subfolderPath2 = folderPath+ "/CSV Reports";
+
+      // Create this sub-folder
+      new File(subfolderPath2).mkdirs();
+
+/* ------------------------------------------------------------------------------- */
+
+// 4. Create a Report.csv file inside the CSV Reports folder 
+      // Create a File object for Report csv file (with timestamp)
+      def reportFile = new File(subfolderPath2, "Report_"+executionDate+".csv");
+
+      // Check for existence of report file and create a file
+      if(!reportFile.exists())
+      {
+        reportFile.createNewFile();
+        // Create required column names in the report file
+        reportFile.write('"Test Suite","Test Case","Test Step","Step Type","Step Status",'
+                        +'"Result message","Execution Date"');
+      }
+/* ------------------------------------------------------------------------------- */
+// 5. Inserting data in the file
+      // Iterate over all the test steps results
+  for(stepResult in testRunner.getResults())
+  {
+    // Retrieve Test Suite name
+   def testSuite = testRunner.testCase.testSuite.name;
+   // Retrieve Test Case name
+   def testCase = testRunner.testCase.name;
+   // Retrieve Test Step
+   def testStep = stepResult.getTestStep();
+   // Retrieve Test Step name
+   def testStepName = testStep.name
+   // Retrieve Test Step type
+   def type = testStep.config.type
+   // Retrieve Test Step status
+   def status = stepResult.getStatus()
+
+   // Creating new line in report file
+   reportFile.append('\n');
+
+   // Write all the necessary information in the file
+   reportFile.append('"' + testSuite + '",');
+   reportFile.append('"' + testCase + '",');
+   reportFile.append('"' + testStepName + '",');
+   reportFile.append('"' + type + '",');
+   reportFile.append('"' + status + '",');
+
+   // Retrieve the test result messages
+   reportFile.append('"');
+   for(resMessage in stepResult.getMessages())
+   {
+     // Write messages and separate multiple messages by new line
+     reportFile.append('Message:' + resMessage + '\n');
+   }
+   reportFile.append('",');
+
+   //Write executionDate in the file
+   reportFile.append('"' + executionDate + '",');
+/* ------------------------------------------------------------------------------- */
+// 6. Extract the request and response and save it to external file
+      // Verify if the test step type is request: SOAP project or restrequest: REST project
+        if((type=="request").or(type=="restrequest"))
+        {
+          // Extract the request from the test step
+          def extRequest = testStep.properties["Request"].value;    
+
+      // Create a file in the reports folder and write the request
+      // Naming convention: request_TestSuiteName_TestCaseName_TestStepName.txt
+      def requestFile=subfolderPath1+"/request_"+testSuite+"_"+testCase+"_"+testStepName+".txt";
+      def rqfile = new File(requestFile);
+      rqfile.write(extRequest, "UTF-8");
+
+      // Extract the response from the test step
+      def extResponse = stepResult.getResponseContent();    
+
+      // Create a file in the reports folder and write the response
+      // Naming convention: response_TestSuiteName_TestCaseName_TestStepName.txt
+      def responseFile=subfolderPath1+"/response_"+testSuite+"_"+testCase+"_"+testStepName+".txt";
+      def rsfile = new File(responseFile);
+      rsfile.write(extResponse, "UTF-8");
+     }
+   }
+ }
+catch(exc)
+{
+   log.error("Exception happened: " + exc.toString());
+}</script></con:config></con:testStep><con:tearDownScript>// Code to execute the GenerateCSVReport test step
+testRunner.testCase.testSuite.project.testSuites["Library"].testCases["Reporting_Utility"].
+testSteps["GenerateCSVReport"].run(testRunner, context);</con:tearDownScript><con:properties/></con:testCase><con:properties/><con:tearDownScript>// Code to execute the GenerateCSVReport test step
+testRunner.testCase.testSuite.project.testSuites["Library"].testCases["Reporting_Utility"].
+testSteps["GenerateCSVReport"].run(testRunner, context);</con:tearDownScript></con:testSuite><con:properties/><con:wssContainer/><con:oAuth2ProfileContainer/><con:oAuth1ProfileContainer/></con:soapui-project>
